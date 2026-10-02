@@ -1,0 +1,6 @@
+{
+  "name": "ManganeseAI",
+  "description": "AI-Powered Manganese Reserve Intelligence & Production Forecasting Platform for MOIL Ltd. (SIH26009)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
